@@ -1,0 +1,16 @@
+{
+  "name": "pk2publi0x",
+  "version": "1.0.0",
+  "description": "derive public address from private key ",
+  "main": "index.js",
+  "scripts": {
+    "derive": "node derive.js"
+  },
+  "dependencies": {
+    "dotenv": "16.0.2",
+    "ethereumjs-util": "7.1.5",
+    "web3": "1.2.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
